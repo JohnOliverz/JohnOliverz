@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Jhonatan+Sousa+de+Oliveira;Desenvolvedor+FrontEnd;Seja-Bem+Vindo!)](https://git.io/typing-svg)
 
-- 💻 Desenvolvedor FontEnd
-- 🎓 Sistemas de Informação (5º Semestre)
-- 📚 Atualmente crescendo na área do FrontEnd
+- 💻 FontEnd Developer
+- 🏫 IFCE - Campus Crato
+- 🎓 Information Systems (5th Semester)
+- 📚 Currently growing in the FrontEnd area
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JohnOliverz&show_icons=true&theme=radical">
