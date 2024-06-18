@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Jhonatan+Sousa+de+Oliveira;Desenvolvedor+FrontEnd;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Jhonatan+Sousa+de+Oliveira;FontEnd+Developer;Welcome!)](https://git.io/typing-svg)
 
 - 💻 FontEnd Developer
 - 🏫 IFCE - Campus Crato
