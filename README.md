@@ -3,7 +3,7 @@
 - 💻 FullStack Developer
 - 🏫 IFCE - Campus Crato
 - 🎓 Information Systems (7th Semester)
-- 📚 Currently growing in the FrontEnd area
+- 📚 Currently growing in the BackEnd area
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JohnOliverz&show_icons=true&theme=radical">
